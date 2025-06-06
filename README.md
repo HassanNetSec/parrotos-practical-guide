@@ -44,7 +44,7 @@ chown hassan file.txt     # Change file owner to hassan
 chmod 755 script.sh       # rwxr-xr-x using numeric mode
 ```
 
-Learn more in [`01-file-permissions.md`](01-file-permissions.md)
+Learn more in [`01-file-permissions.md`](file-permissions-basics.md)
 
 ---
 
