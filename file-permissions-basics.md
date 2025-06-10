@@ -182,6 +182,5 @@ chmod +t /tmp/shared-folder
 | Sticky Bit    | `chmod +t /shared`    |
 
 ---
-
-🔗 **Next Topic:** [02 - User & Group Management (coming soon)]  
+ 
 📘 **Repo:** [`ParrotosPracticalGuide`](https://github.com/yourusername/ParrotosPracticalGuide)
